@@ -1,6 +1,5 @@
 # Ignore Docker related files
 .dockerignore
-Dockerfile
 docker-compose.yml
 docker-compose.yaml
 .env
